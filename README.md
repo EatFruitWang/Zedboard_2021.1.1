@@ -4,4 +4,4 @@
 但會有一些必要的Verilog檔案
 使用前可以看看相關網頁PPT內容喔！
 ### 相關教學網站↓
-<https://sites.google.com/view/eatfruit/zedboard-xc7z020clg484-1>
+<https://sites.google.com/view/eatfruit/個人學習與教學存放/zedboard-xc7z020clg484-1>
