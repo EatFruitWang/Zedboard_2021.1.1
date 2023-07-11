@@ -1,2 +1,2 @@
-# Zedboard_2021.1.1
-這個主要提供我看手冊自學而來針對Zedboard開發Verilog檔案範例，教學內容則放置在我的google site。
+#歡迎來到我的github
+這裡是我的Zedboard開發板教學範例專區，範例中不會有專案內容，但會有一些必要的Verilog檔案，使用前可以看看相關網頁PPT內容喔！
